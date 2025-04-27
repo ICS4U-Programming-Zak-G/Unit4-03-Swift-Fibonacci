@@ -1,0 +1,7 @@
+The value at 0 is 0 
+The value at 12 is 144 
+-8 is not a positive integer
+1.6 is not an integer
+hi is not an integer
+ is not an integer
+The value at 1 is 1 
